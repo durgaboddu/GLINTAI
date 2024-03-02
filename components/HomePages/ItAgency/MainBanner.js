@@ -27,11 +27,12 @@ const MainBanner = () => {
                 <div className="col-lg-6">
                   <div className="main-banner-content">
                     <h1
+                      style={{ fontSize: "2.5rem" }}
                       data-aos="fade-in"
                       data-aos-duration="1000"
                       data-aos-delay="100"
                     >
-                      We're an IT agency
+                      CUSTOM AI AND SOFTWARE DEVELOPMENT COMPANY
                     </h1>
 
                     <p
@@ -39,9 +40,8 @@ const MainBanner = () => {
                       data-aos-duration="1000"
                       data-aos-delay="200"
                     >
-                      Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-                      sed do eiusmod tempor incididunt ut labore et dolore
-                      magna aliqua.
+                      We build reliable, interpretable, and steerable AI systems and Softwares.
+                      We conduct frontier research, develop and apply a variety of Solutions and workflows via a set of partnerships and products
                     </p>
 
                     <Link 
@@ -54,7 +54,7 @@ const MainBanner = () => {
                       Get Started
                     </Link>
 
-                    <button
+                    {/* <button
                       onClick={() => setToggler(!toggler)}
                       className="btn btn-secondary"
                       data-aos="fade-in"
@@ -62,7 +62,7 @@ const MainBanner = () => {
                       data-aos-delay="400"
                     >
                       <i className="fa-solid fa-play me-1"></i> How it works
-                    </button>
+                    </button> */}
                   </div>
                 </div>
 

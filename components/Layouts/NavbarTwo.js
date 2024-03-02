@@ -80,7 +80,7 @@ const NavbarTwo = () => {
               <ul className="navbar-nav">
                 <li className="nav-item">
                   <Link
-                    href="#"
+                    href="/"
                     className="nav-link"
                     onClick={(e) => e.preventDefault()}
                   >

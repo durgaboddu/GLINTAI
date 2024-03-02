@@ -20,7 +20,7 @@ const servicesData = [
   },
   {
     iconName: "pe-7s-light bg-ffb700",
-    title: "Digital Marketing",
+    title: "Custom AI System Development",
     shortText:
       "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo.",
     viewDetails: "/services/service-details/",
@@ -59,10 +59,10 @@ const OurServices = () => {
         <div className="container">
           <div className="section-title">
             <h2>Our Services</h2>
-            <p>
+            {/* <p>
               Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
               eiusmod tempor incididunt ut labore et dolore magna.
-            </p>
+            </p> */}
           </div>
 
           <div className="row justify-content-center">
