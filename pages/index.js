@@ -26,15 +26,13 @@ const ItAgency = () => {
 
       <WhyChooseUs />
 
-      <FunFactsTwo />
+      {/* <FunFactsTwo /> */}
 
       <Partner />
 
       <Feedback />
 
       <TeamStyleTwo />
-
-      <PricingStyleThree />
 
       <LatestNewsSliderTwo />
 

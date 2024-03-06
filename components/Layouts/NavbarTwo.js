@@ -82,7 +82,6 @@ const NavbarTwo = () => {
                   <Link
                     href="/"
                     className="nav-link"
-                    onClick={(e) => e.preventDefault()}
                   >
                     Home 
                   </Link>

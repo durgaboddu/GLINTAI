@@ -3,7 +3,8 @@ import FsLightbox from "fslightbox-react";
 import Link from 'next/link';
 import Image from "next/image";
 
-import bannerImg from '../../../public/images/animate-banner-img1.jpg';
+// import bannerImg from '../../../public/images/animate-banner-img1.jpg';
+import bannerImg from '../../../public/images/glintai-main-banner.jpg';
 
 const MainBanner = () => {
   const [toggler, setToggler] = useState(false);
