@@ -149,19 +149,24 @@ const Footer = () => {
 
                 <ul className="get-in-touch">
                   <li>
-                    <i className="fa-solid fa-location-dot"></i> 2750 Quadra Street
-                    Victoria, Canada.
+                    <i className="fa-solid fa-location-dot"></i> 30 towerhill avenue Doreen 3754,Australia.
+                    <br/>
+                    <br/>
+                    2255 W Germann Rd, Chandler, AZ 85286,United States
                   </li>
                   <li>
                     <i className="fa-solid fa-headset"></i>
-                    <a href="tel:+324-9442-515">+324-9442-515</a> 
+                    Australia
+                    <br/>
+                    <a href="tel:+0488275957">0488275957</a> 
                     <br />
-                    <a href="tel:+324-9442-515">+324-9442-999</a>
+                    United States
+                    <br/>
+                    <a href="tel:+4848970748">4848970748</a>
                   </li>
                   <li>
                     <i className="fa-solid fa-envelope"></i>
-                    <a href="mailto:hello@pungent.com">hello@pungent.com</a>
-                    <a href="mailto:support@pungent.com">support@pungent.com</a>
+                    <a href="mailto:support@glintai.com">support@glintai.com</a>
                   </li>
                 </ul>
               </div>
@@ -172,10 +177,7 @@ const Footer = () => {
         <div className="copyright-area">
           <div className="container">
             <p>
-              Copyright &copy; {currentYear} Pungent. All Rights Reserved By{" "}
-              <a href="https://envytheme.com" target="_blank">
-                EnvyTheme
-              </a>
+              Copyright &copy; {currentYear} Glintai
             </p>
           </div>
         </div>
